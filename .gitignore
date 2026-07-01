@@ -1,0 +1,10 @@
+*.tmp
+*.bak
+*.log
+*.zip
+*.rar
+
+.vscode/
+.idea/
+
+build/
