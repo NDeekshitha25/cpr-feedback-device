@@ -86,25 +86,6 @@ The system uses an LM393 infrared speed sensor to measure compression frequency,
 | 120–140 CPM | Good Pace! | Green |
 | Above 140 CPM | Too Fast! | Red |
 
----
-
-## Repository Structure
-
-```text
-cpr-feedback-device/
-├── firmware/
-│   └── cpr_feedback_device.ino
-├── circuit/
-│   ├── circuit_diagram.png
-│   └── wiring_diagram.png
-├── images/
-│   ├── prototype.jpg
-│   ├── lcd_feedback.jpg
-│   └── system_overview.png
-├── README.md
-├── LICENSE
-└── .gitignore
-```
 
 ---
 
